@@ -1,0 +1,39 @@
+These products include also software developed by :
+  - CakePHP 1.3.x (http://cakephp.org/)
+    - MIT License
+
+  - cakeplus 0.04(CakePHP plugins) (http://d.hatena.ne.jp/cakephper/)
+    - MIT License
+
+  - install 1.0(CakePHP plugins) (http://www.croogo.org)
+    - MIT License
+
+  - FPDF Version: 1.7 (http://www.fpdf.org/)
+    - Freeware
+
+  - MBFPDF version: 1.0b (http://www.fpdf.org/)
+    - Freeware
+
+  - PHPExcel 1.8.0 (http://phpexcel.codeplex.com/)
+    - LGPL License
+
+  - Qdmail ver 1.2.6b (http://hal456.net/qdmail/)
+    - MIT License
+
+  - Qdsmtp ver 0.2.0a (http://hal456.net/qdsmtp/) 
+    - MIT License
+
+  - JKL.Calendar (http://www.kawa.net/works/js/jkl/calender.html)
+    - New BSD License
+
+  - alphafilter JavaScript Library beta13 (http://blog.webcreativepark.net/2007/02/01-233315.html)
+    - MIT License
+
+  - IE PNG Fix v1.4 (http://www.isella.com/aod2/)
+    - LGPL License
+
+  - IPA明朝(http://ossipedia.ipa.go.jp/ipafont/index.html)
+    - IPA Font License Agreement v1.0
+
+These products need the third-party softwares listed blow to run.
+  - PHP: Hypertext Preprocessor (5.1 +)
